@@ -67,7 +67,7 @@ The frontend communicates with the backend via HTTP requests, with CORS enabled 
 
 3. Install dependencies:
    ```bash
-   pip install fastapi uvicorn sqlalchemy pydantic python-jose passlib python-multipart
+   pip install fastapi uvicorn sqlalchemy pydantic python-jose passlib python-multipart bcrypt
    ```
 
 4. Run the backend server:
