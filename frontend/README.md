@@ -1,4 +1,4 @@
-# Document Processing Web App
+# Document Processing Web App Frontend
 
-## Stack: React + FastAPI + SQL
+React
 
