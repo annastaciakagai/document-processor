@@ -75,7 +75,7 @@ export default function Login() {
 
 const styles = {
   container: { display: "flex", justifyContent: "center", alignItems: "center", height: "100vh", background: "#f5f5f5" },
-  card: { background: "#fff", padding: "2rem", borderRadius: "8px", width: "100%", maxWidth: "400px", boxShadow: "0 2px 8px rgba(0,0,0,0.1)" },
+  card: { background: "#251818", padding: "2rem", borderRadius: "8px", width: "100%", maxWidth: "400px", boxShadow: "0 2px 8px rgba(0,0,0,0.1)" },
   title: { marginBottom: "1.5rem", fontSize: "1.4rem", fontWeight: 600 },
   form: { display: "flex", flexDirection: "column", gap: "0.75rem" },
   label: { fontSize: "0.875rem", fontWeight: 500 },

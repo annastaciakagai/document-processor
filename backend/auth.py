@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 from database import get_db
 import models, schemas
 
-SECRET_KEY = "staciesdoc"
+SECRET_KEY = "stadoc"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60
 
